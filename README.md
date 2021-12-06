@@ -24,3 +24,6 @@
 * The macro will calculate how many videos receive at least a certain number of views, and within certain age timeframes. 
 	* For example, you can see what percentage of your YouTube videos that are 6-12 Months old get over 1000 Views/Month and 3000 Views/Month, as well as for 13-24 Months and 25-26 Months.  **(See output screenshot above)**
 * When running the macro, it will ask you for these two view counts, which can be anything you like.
+
+#### Limitations:
+* The YouTube analytics dashboard will not export more than 500 videos, and it exports using the currently displayed metrics, which sort by Views high-low by default. Therefore, if you have more than 500 videos, *and* you have any videos newer than 36 months that are *not* in the top 500 videos in terms of views, they will not be counted in this metric.

@@ -2,7 +2,8 @@
  Using Excel, determines amount of videos of different age ranges that are above an arbitrary performance level. Allows you to get an idea of how well your videos' views hold up over time. 
 
 ### Output:
-<img width="464" alt="Macro Output" src="https://user-images.githubusercontent.com/12518330/144888168-5f2d64f0-1d09-42d5-891c-41d341c18335.png">
+<img width="662" alt="Screenshot 2" src="https://user-images.githubusercontent.com/12518330/144888313-6a532c36-2cbe-4cdf-a51e-bac8d0ec79cb.png">
+
 
 
 ### Setup - Instructions
